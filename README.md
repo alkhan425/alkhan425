@@ -15,11 +15,18 @@
 
 ---
 
+<h3 align="center">🧠 Data Analysis Skills</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub Stats"><br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg">
+  📊 <strong>التحليل الإحصائي:</strong> تحليل وتفسير البيانات لاستخلاص الأنماط والعلاقات. <br>
+  🐍 <strong>Python لتحليل البيانات:</strong> خبرة باستخدام Pandas، Matplotlib، Seaborn، NumPy. <br>
+  🗄️ <strong>SQL:</strong> كتابة استعلامات احترافية واستخراج بيانات من قواعد بيانات متعددة. <br>
+  📈 <strong>Power BI / Tableau:</strong> إنشاء لوحات معلومات تفاعلية وتقارير مبنية على البيانات. <br>
+  📂 <strong>Excel المتقدم:</strong> تحليل البيانات باستخدام Pivot Tables وPower Query والصيغ المعقدة. <br>
+  🧹 <strong>تنظيف البيانات:</strong> معالجة القيم المفقودة وتوحيد الصيغ واكتشاف القيم الشاذة. <br>
+  📚 <strong>التحسين المستمر:</strong> تعلّم مستمر في علم البيانات، الإحصاء، وسرد القصص بالبيانات. <br>
 </p>
+
 
 > 🔹 *Note: These GitHub stats represent activity on GitHub and not necessarily proficiency or experience.*
 
