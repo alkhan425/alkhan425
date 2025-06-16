@@ -43,8 +43,8 @@
 
 ## Get in Touch
 
-- 📧 Email: [abdulmalik@example.com](mailto:abdulmalik@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/abdulmalik-data](#)  
-- 📂 Portfolio: [YourWebsite.com](#) *(اختياري إن وُجد)*
+- 📧 Email: (alkhan-4@gotmail.com)  
+- 💼 LinkedIn: [[linkedin.com/in/abdulmalik-data](https://www.linkedin.com/analytics/profile-views/)](#)  
+  
 
 ---
