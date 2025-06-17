@@ -1,4 +1,4 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+![Image](https://github.com/user-attachments/assets/1bf62c22-54dc-4489-a8b5-44d624f8a6c2)
 
 <h3 align="center">Data Analyst | Python & SQL Expert | Data Visualization | Dashboard Creator | Lifelong Learner</h3>
 
